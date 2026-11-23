@@ -1,0 +1,10 @@
+# Developed with Python 3.13.2. Versions were not pinned during the project.
+numpy
+scipy
+scikit-learn
+torch
+torchvision
+matplotlib
+seaborn
+# GPU-accelerated resampling in data_collector.py (needs an NVIDIA GPU; install the build matching your CUDA version)
+cupy-cuda12x

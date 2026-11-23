@@ -1,0 +1,17 @@
+# NinaPro data is not redistributed: download it from https://ninapro.hevs.ch/
+Code/Ninapro_data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated plots
+Code/Plots/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
