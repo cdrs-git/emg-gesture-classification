@@ -2,6 +2,8 @@
 
 MEng Robotics Engineering final-year project (2025).
 
+> The code is published as submitted in 2025. The only changes for publishing were unzipping it, adding this README, `requirements.txt` and `.gitignore`, and removing earlier draft files.
+
 The project compares five machine-learning techniques for classifying hand gestures from surface electromyography (sEMG) signals: Random Forest, MLP, CNN, RNN (LSTM) and Transformer. The aim is to control prosthetic hands. All five are evaluated on six [NinaPro](https://ninapro.hevs.ch/) databases (DB1–5 and DB7) using the same testing framework.
 
 ## Key findings
